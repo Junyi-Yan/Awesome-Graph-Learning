@@ -22,6 +22,22 @@ If your publication is not included here, please email to junyiyan01@163.com
   
 - [KDD 21] When comparing to ground truth is wrong: On evaluating gnn explanation methods [[Paper](https://dl.acm.org/doi/pdf/10.1145/3447548.3467283)] [[Code](https://github.com/m30m/gnn-explainability)]
   
--  [NeurIPS 20]  Gnnexplainer: Generating explanations for graph neural networks [[Paper](Parameterized Explainer for Graph Neural Network)] [[Code](https://github.com/flyingdoog/PGExplainer)]
+- [NeurIPS 20]  Parameterized Explainer for Graph Neural Network [[Paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/e37b08dd3015330dcbb5d6663667b8b8-Paper.pdf)] [[Code](https://github.com/flyingdoog/PGExplainer)]
 
 - [NeurIPS 19]  Gnnexplainer: Generating explanations for graph neural networks [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/d80b7040b773199015de6d3b4293c8ff-Paper.pdf)] [[Code](https://github.com/RexYing/gnn-model-explainer)]
+
+# Robust Graph Learning
+
+- [TKDE 25] Address Anomalies at Critical Crossroads for Graph Anomaly Detection [[Paper](https://ieeexplore.ieee.org/abstract/document/11183627)] [[Code](https://github.com/Junyi-Yan/STIM)]
+
+- [KDD 25] Can Large Language Models Improve the Adversarial Robustness of Graph Neural Networks? [[Paper](https://dl.acm.org/doi/pdf/10.1145/3690624.3709256)] [[Code](https://github.com/zhongjian-zhang/LLM4RGNN)]
+
+- [AAAI 25] DG-Mamba: Robust and Efficient Dynamic Graph Structure Learning with Selective State Space Models [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34382)] [[Code](https://github.com/haonan-yuan/DG-Mamba)]
+  
+- [WSDM 23] Robust Training of Graph Neural Networks via Noise Governance [[Paper](https://zhoujingbo.github.io/paper/2023robustWSDM.pdf)] [[Code](https://github.com/GhostQ99/RobustTrainingGNN)]
+
+- [WSDM 22] Towards Robust Graph Neural Networks for Noisy Graphs with Sparse Labels [[Paper](https://dl.acm.org/doi/pdf/10.1145/3488560.3498408)] [[Code](https://github.com/EnyanDai/RSGNN)]
+
+- [WSDM 21] Learning to Drop: Robust Graph Neural Network via Topological Denoising [[Paper](https://dl.acm.org/doi/epdf/10.1145/3437963.3441734)] [[Code](https://github.com/flyingdoog/PTDNet)]
+
+- [KDD 20] Graph Structure Learning for Robust Graph Neural Networks [[Paper](https://dl.acm.org/doi/epdf/10.1145/3394486.3403049)] [[Code](https://github.com/ChandlerBang/Pro-GNN)]
