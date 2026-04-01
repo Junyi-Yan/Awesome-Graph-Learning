@@ -70,13 +70,25 @@ If your publication is not included here, please email to junyiyan01@163.com
 - [KDD 20] Graph Structure Learning for Robust Graph Neural Networks [[Paper](https://dl.acm.org/doi/epdf/10.1145/3394486.3403049)] [[Code](https://github.com/ChandlerBang/Pro-GNN)]
 
 # Scalable Graph Learning
+**Survey**
+- [TKDD 25] Learning to reduce the scale of large graphs: A comprehensive survey [[Paper](https://dl.acm.org/doi/full/10.1145/3729427)]
+
+**Others**
+- [ICLR 25] Node Identifiers: Compact, Discrete Representations for Efficient Graph Learning [[Paper](https://openreview.net/forum?id=t9lS1lX9FQ)] [[Code](https://github.com/LUOyk1999/NodeID)]
+
+- [ICML 25] Can Classic GNNs Be Strong Baselines for Graph-level Tasks? Simple Architectures Meet Excellence [[Paper](https://openreview.net/forum?id=ZH7YgIZ3DF)] [[Code](https://github.com/LUOyk1999/GNNPlus)]
+  
 - [ICLR 24] Unifews: Unified Entry-Wise Sparsification for Efficient Graph Neural Network [[Paper](https://openreview.net/forum?id=lHasEfGsXL)] [[Code](https://github.com/iMoonLab/LightHGNN?tab=readme-ov-file)]
 
 - [WWW 24] Linear-Time Graph Neural Networks for Scalable Recommendations [[Paper](https://openreview.net/forum?id=eybM9FnROz)] [[Code](https://github.com/QwQ2000/TheWebConf24-LTGNN-PyTorch)]
 
 - [WWW 24] Macro graph neural networks for online billion-scale recommender systems [[Paper](https://dl.acm.org/doi/abs/10.1145/3589334.3645517)] [[Code](https://github.com/YuanchenBei/MacGNN)]
 
+- [ICLR 23] Learning MLPs on Graphs: A Unified View of Effectiveness, Robustness, and Efficiency [[Paper](https://openreview.net/forum?id=Cs3r5KLdoj)] [[Code](https://github.com/meettyj/NOSMOG)]
+
 - [ICLR 23] VQGraph: Rethinking Graph Representation Space for Bridging GNNs and MLPs [[Paper](https://openreview.net/pdf?id=h6Tz85BqRI)] [[Code](https://github.com/YangLing0818/VQGraph)]
+
+- [ICML 23] Linkless link prediction via relational distillation [[Paper](https://proceedings.mlr.press/v202/guo23f.html)] [[Code](https://github.com/snap-research/linkless-link-prediction/)]
   
 - [AAAI 23] Scalable spatiotemporal graph neural networks [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25880)] [[Code](https://github.com/Graph-Machine-Learning-Group/sgp)]
 
