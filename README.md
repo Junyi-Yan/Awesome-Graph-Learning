@@ -7,7 +7,8 @@ If your publication is not included here, please email to junyiyan01@163.com
 **Survey**
 - [ACM computing survey 25] Can graph neural networks be adequately explained? a survey [[Paper](https://dl.acm.org/doi/full/10.1145/3711122)]
   
-- [ACM computing survey 25] Explaining the explainers in graph neural networks: a comparative study [[Paper](https://dl.acm.org/doi/full/10.1145/3696444)] 
+- [ACM computing survey 25] Explaining the explainers in graph neural networks: a comparative study [[Paper](https://dl.acm.org/doi/full/10.1145/3696444)]
+
 **Others**
 - [NeurIPS 25] Robust Explanations of Graph Neural Networks via Graph Curvatures [[Paper](https://openreview.net/forum?id=48L3BEtH8w)] [[Code](https://github.com/yazhengliu/Robust_explanation_curvature)]
 
