@@ -69,3 +69,22 @@ If your publication is not included here, please email to junyiyan01@163.com
 
 - [KDD 20] Graph Structure Learning for Robust Graph Neural Networks [[Paper](https://dl.acm.org/doi/epdf/10.1145/3394486.3403049)] [[Code](https://github.com/ChandlerBang/Pro-GNN)]
 
+# Scalable Graph Learning
+- [ICLR 24] Unifews: Unified Entry-Wise Sparsification for Efficient Graph Neural Network [[Paper](https://openreview.net/forum?id=lHasEfGsXL)] [[Code](https://github.com/iMoonLab/LightHGNN?tab=readme-ov-file)]
+
+- [WWW 24] Linear-Time Graph Neural Networks for Scalable Recommendations [[Paper](https://openreview.net/forum?id=eybM9FnROz)] [[Code](https://github.com/QwQ2000/TheWebConf24-LTGNN-PyTorch)]
+
+- [WWW 24] Macro graph neural networks for online billion-scale recommender systems [[Paper](https://dl.acm.org/doi/abs/10.1145/3589334.3645517)] [[Code](https://github.com/YuanchenBei/MacGNN)]
+
+- [ICLR 23] VQGraph: Rethinking Graph Representation Space for Bridging GNNs and MLPs [[Paper](https://openreview.net/pdf?id=h6Tz85BqRI)] [[Code](https://github.com/YangLing0818/VQGraph)]
+  
+- [AAAI 23] Scalable spatiotemporal graph neural networks [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25880)] [[Code](https://github.com/Graph-Machine-Learning-Group/sgp)]
+
+- [ICLR 23] DIFFormer: Scalable (Graph) Transformers Induced by Energy Constrained Diffusion [[Paper](https://openreview.net/forum?id=j6zUzrapY3L)] [[Code](https://github.com/qitianwu/DIFFormer)]
+
+- [NeurIPS 22] Rethinking and scaling up graph contrastive learning: An extremely efficient approach with group discrimination [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/46027e3de0db3617a911f1a647def3bf-Abstract-Conference.html)] [[Code](https://github.com/zyzisastudyreallyhardguy/Graph-Group-Discrimination)]
+  
+- [NeurIPS 22] Nodeformer: A scalable graph structure learning transformer for node classification [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/af790b7ae573771689438bbcfc5933fe-Paper-Conference.pdf)] [[Code](https://github.com/qitianwu/NodeFormer)]
+
+- [NeurIPS 22] Recipe for a general, powerful, scalable graph transformer [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/5d4834a159f1547b267a05a4e2b7cf5e-Paper-Conference.pdf)] [[Code](https://github.com/rampasek/GraphGPS)]
+
