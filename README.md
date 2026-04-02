@@ -20,6 +20,8 @@ If your publication is not included here, please email to junyiyan01@163.com
 
 - [NeurIPS 23] Towards Self-Interpretable Graph-Level Anomaly Detection [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/1c6f06863df46de009a7a41b41c95cad-Paper-Conference.pdf)] [[Code](https://github.com/yixinliu233/SIGNET)]
   
+- [TKDE 22] GraphLIME: Local Interpretable Model Explanations for Graph Neural Networks [[Paper](https://ieeexplore.ieee.org/abstract/document/9811416)] [[Code](https://github.com/WilliamCCHuang/GraphLIME?tab=readme-ov-file)]
+  
 - [CIKM 21] Towards Self-Explainable Graph Neural Network [[Paper](https://dl.acm.org/doi/epdf/10.1145/3459637.3482306)] [[Code](https://github.com/EnyanDai/SEGNN)]
   
 - [KDD 21] When comparing to ground truth is wrong: On evaluating gnn explanation methods [[Paper](https://dl.acm.org/doi/pdf/10.1145/3447548.3467283)] [[Code](https://github.com/m30m/gnn-explainability)]
