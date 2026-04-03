@@ -16,6 +16,8 @@ If your publication is not included here, please email to junyiyan01@163.com
 
 - [KDD 25] Global Interpretable Graph-level Anomaly Detection via Prototype [[Paper](https://dl.acm.org/doi/pdf/10.1145/3711896.3736983)] [[Code](https://github.com/ZhenyuYangMQ/GLADPro)]
 
+- [KDD 25] Is Your Explanation Reliable: Confidence-Aware Explanation on Graph Neural Networks [[Paper](https://dl.acm.org/doi/pdf/10.1145/3711896.3737010)] [[Code](https://github.com/tabzhangjx/ConfExplainer)]
+
 - [TPAMI 24] Towards Inductive and Efficient Explanations for Graph Neural Networks [[Paper](https://ieeexplore.ieee.org/abstract/document/10423141)]
 
 - [NeurIPS 23] Towards Self-Interpretable Graph-Level Anomaly Detection [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/1c6f06863df46de009a7a41b41c95cad-Paper-Conference.pdf)] [[Code](https://github.com/yixinliu233/SIGNET)]
