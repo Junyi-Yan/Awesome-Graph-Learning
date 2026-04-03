@@ -45,6 +45,8 @@ If your publication is not included here, please email to junyiyan01@163.com
   
 - [AAAI 25] Federated Graph Anomaly Detection Through Contrastive Learning with Global Negative Pairs [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/35458)] [[Code](https://github.com/Theodore-Silas/FedCLGN)]
 
+- [TKDD 24] Fgtl: Federated graph transfer learning for node classification [[Paper](https://dl.acm.org/doi/pdf/10.1145/3699962)] [[Code](https://github.com/FedGTL/FGTL)]
+
 - [KDD 24] Gpfedrec: Graph-guided personalization for federated recommendation  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3637528.3671702)] [[Code](https://github.com/Zhangcx19/GPFedRec)]
   
 - [MM 24] Towards effective federated graph anomaly detection via self-boosted knowledge distillation [[Paper](https://dl.acm.org/doi/abs/10.1145/3664647.3681415)] [[Code](https://github.com/wownice333/FGAD)]
@@ -56,6 +58,8 @@ If your publication is not included here, please email to junyiyan01@163.com
 - [VLDB 23] FederatedScope: A Flexible Federated Learning Platform for Heterogeneity [[Paper](https://dl.acm.org/doi/abs/10.14778/3579075.3579081)] [[Code](https://github.com/alibaba/FederatedScope)]
 
 - [KDD 22] FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning [[Paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539112)] [[Code](https://github.com/alibaba/FederatedScope/tree/master/federatedscope/gfl)]
+
+- [NeurIPS 22] Federated graph classification over non-iid graphs [[Paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/9c6947bd95ae487c81d4e19d3ed8cd6f-Paper.pdf)] [[Code](https://github.com/Oxfordblue7/GCFL)]
 
 # Robust Graph Learning
 
