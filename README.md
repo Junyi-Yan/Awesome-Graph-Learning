@@ -52,6 +52,8 @@ If your publication is not included here, please email to junyiyan01@163.com
 - [MM 24] Towards effective federated graph anomaly detection via self-boosted knowledge distillation [[Paper](https://dl.acm.org/doi/abs/10.1145/3664647.3681415)] [[Code](https://github.com/wownice333/FGAD)]
 
 - [IJCAI 24] LG-FGAD: An Effective Federated Graph Anomaly Detection Framework [[Paper](https://www.ijcai.org/proceedings/2024/0416.pdf)] [[Code](https://github.com/wownice333/LG-FGAD)]
+
+- [IJCAI 23] Federated graph semantic and structural learning [[Paper](https://dl.acm.org/doi/abs/10.24963/ijcai.2023/426)] [[Code](https://github.com/WenkeHuang/FGSSL)]
   
 - [VLDB 23] FedGTA: Topology-aware Averaging for Federated Graph Learning [[Paper](https://dl.acm.org/doi/abs/10.14778/3617838.3617842)][[Code](https://github.com/xkLi-Allen/FedGTA)
 
