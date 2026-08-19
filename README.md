@@ -82,6 +82,7 @@ If your publication is not included here, please email to junyiyan01@163.com
 - [KDD 20] Graph Structure Learning for Robust Graph Neural Networks [[Paper](https://dl.acm.org/doi/epdf/10.1145/3394486.3403049)] [[Code](https://github.com/ChandlerBang/Pro-GNN)]
 - [TKDE 26] FOND: Fine-grained Boundary Mining with Dual Bridging for Fair Graph Anomaly Detection [[Paper](https://ieeexplore.ieee.org/abstract/document/11636210)]
 
+
 # Scalable Graph Learning
 **Survey**
 - [TKDD 25] Learning to reduce the scale of large graphs: A comprehensive survey [[Paper](https://dl.acm.org/doi/full/10.1145/3729427)]
