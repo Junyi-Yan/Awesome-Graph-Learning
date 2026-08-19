@@ -62,6 +62,8 @@ If your publication is not included here, please email to junyiyan01@163.com
 - [KDD 22] FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning [[Paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539112)] [[Code](https://github.com/alibaba/FederatedScope/tree/master/federatedscope/gfl)]
 
 - [NeurIPS 22] Federated graph classification over non-iid graphs [[Paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/9c6947bd95ae487c81d4e19d3ed8cd6f-Paper.pdf)] [[Code](https://github.com/Oxfordblue7/GCFL)]
+  
+- [TPAMI 26] Aligning Condensed Graph via Hashing: A New Insight for Federated Graph Learning [[Paper](https://ieeexplore.ieee.org/document/11601110)]
 
 # Robust Graph Learning
 
@@ -78,6 +80,7 @@ If your publication is not included here, please email to junyiyan01@163.com
 - [WSDM 21] Learning to Drop: Robust Graph Neural Network via Topological Denoising [[Paper](https://dl.acm.org/doi/epdf/10.1145/3437963.3441734)] [[Code](https://github.com/flyingdoog/PTDNet)]
 
 - [KDD 20] Graph Structure Learning for Robust Graph Neural Networks [[Paper](https://dl.acm.org/doi/epdf/10.1145/3394486.3403049)] [[Code](https://github.com/ChandlerBang/Pro-GNN)]
+- [TKDE 26] FOND: Fine-grained Boundary Mining with Dual Bridging for Fair Graph Anomaly Detection [[Paper](https://ieeexplore.ieee.org/abstract/document/11636210)]
 
 # Scalable Graph Learning
 **Survey**
