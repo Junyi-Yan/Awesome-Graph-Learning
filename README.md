@@ -39,6 +39,10 @@ If your publication is not included here, please email to junyiyan01@163.com
 - [ACM Sigkdd Explorations Newsletter 22] Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications [[Paper](https://dl.acm.org/doi/abs/10.1145/3575637.3575644)]
   
 **Others**
+- [TPAMI 26] Aligning Condensed Graph via Hashing: A New Insight for Federated Graph Learning [[Paper](https://ieeexplore.ieee.org/document/11601110)]
+
+- [Arxiv 26] FedCIGAR: A Personalized Reconstruction Approach for Federated Graph-level Anomaly Detection [[Paper](https://arxiv.org/pdf/2605.09428)] [[Code](https://github.com/yunf-zhao/FedCIGAR)]
+
 - [VLDB 25] OpenFGL: A Comprehensive Benchmarks for Federated Graph Learning [[Paper](https://dl.acm.org/doi/abs/10.14778/3718057.3718061)] [[Code](https://github.com/xkLi-Allen/OpenFGL?tab=readme-ov-file)]
 
 - [TIFS 25] FeCoGraph: Label-Aware Federated Graph Contrastive Learning for Few-Shot Network Intrusion Detection [[Paper](https://ieeexplore.ieee.org/abstract/document/10884817)] [[Code](https://github.com/MaoPopovich/FeCoGraph)]
@@ -63,7 +67,7 @@ If your publication is not included here, please email to junyiyan01@163.com
 
 - [NeurIPS 22] Federated graph classification over non-iid graphs [[Paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/9c6947bd95ae487c81d4e19d3ed8cd6f-Paper.pdf)] [[Code](https://github.com/Oxfordblue7/GCFL)]
   
-- [TPAMI 26] Aligning Condensed Graph via Hashing: A New Insight for Federated Graph Learning [[Paper](https://ieeexplore.ieee.org/document/11601110)]
+
 
 # Robust Graph Learning
 
@@ -88,6 +92,8 @@ If your publication is not included here, please email to junyiyan01@163.com
 - [TKDD 25] Learning to reduce the scale of large graphs: A comprehensive survey [[Paper](https://dl.acm.org/doi/full/10.1145/3729427)]
 
 **Others**
+- [ICML 26] Rethinking Feature Alignment in Generalist Graph Anomaly Detection: A Relational Fingerprint-based Approach  [[Paper](https://openreview.net/pdf?id=9kkby07AvD)] [[Code](https://github.com/Yujingcn/REFI-GAD-code)]
+  
 - [ICLR 25] Node Identifiers: Compact, Discrete Representations for Efficient Graph Learning [[Paper](https://openreview.net/forum?id=t9lS1lX9FQ)] [[Code](https://github.com/LUOyk1999/NodeID)]
 
 - [ICML 25] Can Classic GNNs Be Strong Baselines for Graph-level Tasks? Simple Architectures Meet Excellence [[Paper](https://openreview.net/forum?id=ZH7YgIZ3DF)] [[Code](https://github.com/LUOyk1999/GNNPlus)]
