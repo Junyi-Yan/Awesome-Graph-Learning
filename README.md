@@ -1,5 +1,5 @@
 # Awesome-Graph-Learning
-Explainable, federated, robust and scalable graph learning methods (papers and code).
+Explainable, federated, robust, scalable and dynamic graph learning methods (papers and code).
 
 If your publication is not included here, please email to junyiyan01@163.com
 
@@ -119,4 +119,6 @@ If your publication is not included here, please email to junyiyan01@163.com
 - [NeurIPS 22] Nodeformer: A scalable graph structure learning transformer for node classification [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/af790b7ae573771689438bbcfc5933fe-Paper-Conference.pdf)] [[Code](https://github.com/qitianwu/NodeFormer)]
 
 - [NeurIPS 22] Recipe for a general, powerful, scalable graph transformer [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/5d4834a159f1547b267a05a4e2b7cf5e-Paper-Conference.pdf)] [[Code](https://github.com/rampasek/GraphGPS)]
+
+# Dynamic graph learning
 
