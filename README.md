@@ -121,4 +121,10 @@ If your publication is not included here, please email to junyiyan01@163.com
 - [NeurIPS 22] Recipe for a general, powerful, scalable graph transformer [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/5d4834a159f1547b267a05a4e2b7cf5e-Paper-Conference.pdf)] [[Code](https://github.com/rampasek/GraphGPS)]
 
 # Dynamic Graph Learning
-- [NeurIPS 23] Towards Better Dynamic Graph Learning: New Architecture and Unified Library [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d611019afba70d547bd595e8a4158f55-Abstract-Conference.html)] [[Code](https://github.com/yule-BUAA/DyGLib)] 
+- [JMIR 2020] Representation learning for dynamic graphs: A survey [[Paper](https://www.jmlr.org/papers/v21/19-447.html)]
+  
+- [NeurIPS 23] Towards Better Dynamic Graph Learning: New Architecture and Unified Library [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d611019afba70d547bd595e8a4158f55-Abstract-Conference.html)] [[Code](https://github.com/yule-BUAA/DyGLib)]
+  
+- [KDD 22] ROLAND: Graph Learning Framework for Dynamic Graphs [[Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539300)] [[Code](https://github.com/snap-stanford/roland)]
+
+- [TIFS 22] Motif-Level Anomaly Detection in Dynamic Graphs [[Paper](https://ieeexplore.ieee.org/abstract/document/10115014/authors#authors)] [[Code](https://github.com/zirui-yuan/MADG)]
