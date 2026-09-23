@@ -128,3 +128,9 @@ If your publication is not included here, please email to junyiyan01@163.com
 - [KDD 22] ROLAND: Graph Learning Framework for Dynamic Graphs [[Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539300)] [[Code](https://github.com/snap-stanford/roland)]
 
 - [TIFS 22] Motif-Level Anomaly Detection in Dynamic Graphs [[Paper](https://ieeexplore.ieee.org/abstract/document/10115014/authors#authors)] [[Code](https://github.com/zirui-yuan/MADG)]
+
+- [SIGIR 26] Retrieval-Augmented Contrastive Learning for Dynamic Graph Anomaly Detection [[Paper](https://dl.acm.org/doi/epdf/10.1145/3805712.3809965)]
+
+- [AAAI 26] Bag: Benchmarking anomaly detection on dynamic graphs  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38510)] [[Code](https://github.com/frhuaaa/BAG)]
+
+- [TKDE 26] Explainable Anomaly Detection in Dynamic Heterogeneous Graphs via Relation Evolution [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11397820)] [[Code](https://github.com/anonymous-123a/ExpGraph)]
